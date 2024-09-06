@@ -1,0 +1,44 @@
+{
+  "Coordinates": [
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": 30
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 45
+    },
+    {
+      "x": 30,
+      "y": -15,
+      "z": 60
+    },
+    {
+      "x": 55,
+      "y": 20,
+      "z": 55
+    },
+    {
+      "x": 65,
+      "y": 45,
+      "z": 25
+    },
+    {
+      "x": 15,
+      "y": 0,
+      "z": -10
+    }
+  ],
+  "RandomCoordinatesAmount": 10,
+  "RandomMinRange": 5,
+  "RandomMaxRange": 30,
+  "Loop": true,
+  "TimeToComplete": 20
+}
